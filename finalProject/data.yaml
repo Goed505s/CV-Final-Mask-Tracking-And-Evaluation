@@ -1,0 +1,6 @@
+train: m3/train/images
+val: m3/validation/images 
+test: m3/test/images 
+
+nc: 3
+names: ['Mask', 'No Mask', 'Mask is worn incorrectly!']
